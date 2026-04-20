@@ -1,2 +1,4 @@
 # gitdemo
-This is my first Git Repo. Author Dev Sharma
+This is my first Git Repo.
+<br>
+Author Dev Sharma
